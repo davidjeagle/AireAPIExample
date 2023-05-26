@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 using System.Text.Json.Serialization;
-
+//simple class
 namespace AireAPIExample
 {
     public class Recording
